@@ -1,0 +1,34 @@
+{
+  "supermarkets": [
+    {
+      "id": 1,
+      "name": "Lidl",
+      "logo": "🛒"
+    },
+    {
+      "id": 2,
+      "name": "Esselunga",
+      "logo": "🏪"
+    },
+    {
+      "id": 3,
+      "name": "Carrefour",
+      "logo": "🏬"
+    },
+    {
+      "id": 4,
+      "name": "MD",
+      "logo": "🛍️"
+    },
+    {
+      "id": 5,
+      "name": "Iperal",
+      "logo": "🏭"
+    },
+    {
+      "id": 6,
+      "name": "Coop",
+      "logo": "🏢"
+    }
+  ]
+}

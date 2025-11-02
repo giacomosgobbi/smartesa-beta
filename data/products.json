@@ -1,0 +1,214 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Milk",
+      "unit": "1L",
+      "category": "dairy",
+      "prices": {
+        "Lidl": 1.19,
+        "Esselunga": 1.29,
+        "Carrefour": 1.35,
+        "MD": 1.15,
+        "Iperal": 1.25,
+        "Coop": 1.30
+      }
+    },
+    {
+      "id": 2,
+      "name": "Pasta",
+      "unit": "500g",
+      "category": "pantry",
+      "prices": {
+        "Lidl": 0.79,
+        "Esselunga": 0.99,
+        "Carrefour": 1.10,
+        "MD": 0.75,
+        "Iperal": 0.89,
+        "Coop": 0.95
+      }
+    },
+    {
+      "id": 3,
+      "name": "Apples",
+      "unit": "per kg",
+      "category": "fruit",
+      "prices": {
+        "Lidl": 2.49,
+        "Esselunga": 2.89,
+        "Carrefour": 2.99,
+        "MD": 2.39,
+        "Iperal": 2.69,
+        "Coop": 2.79
+      }
+    },
+    {
+      "id": 4,
+      "name": "Bread",
+      "unit": "400g",
+      "category": "bakery",
+      "prices": {
+        "Lidl": 0.89,
+        "Esselunga": 1.19,
+        "Carrefour": 1.29,
+        "MD": 0.85,
+        "Iperal": 0.99,
+        "Coop": 1.09
+      }
+    },
+    {
+      "id": 5,
+      "name": "Chicken Breast",
+      "unit": "per kg",
+      "category": "meat",
+      "prices": {
+        "Lidl": 7.99,
+        "Esselunga": 8.99,
+        "Carrefour": 9.49,
+        "MD": 7.49,
+        "Iperal": 8.49,
+        "Coop": 8.79
+      }
+    },
+    {
+      "id": 6,
+      "name": "Tomatoes",
+      "unit": "per kg",
+      "category": "vegetables",
+      "prices": {
+        "Lidl": 1.99,
+        "Esselunga": 2.29,
+        "Carrefour": 2.49,
+        "MD": 1.89,
+        "Iperal": 2.19,
+        "Coop": 2.39
+      }
+    },
+    {
+      "id": 7,
+      "name": "Olive Oil",
+      "unit": "750ml",
+      "category": "pantry",
+      "prices": {
+        "Lidl": 4.99,
+        "Esselunga": 5.99,
+        "Carrefour": 6.49,
+        "MD": 4.79,
+        "Iperal": 5.49,
+        "Coop": 5.79
+      }
+    },
+    {
+      "id": 8,
+      "name": "Eggs",
+      "unit": "6 pack",
+      "category": "dairy",
+      "prices": {
+        "Lidl": 1.89,
+        "Esselunga": 2.19,
+        "Carrefour": 2.29,
+        "MD": 1.79,
+        "Iperal": 1.99,
+        "Coop": 2.09
+      }
+    },
+    {
+      "id": 9,
+      "name": "Rice",
+      "unit": "1kg",
+      "category": "pantry",
+      "prices": {
+        "Lidl": 1.49,
+        "Esselunga": 1.79,
+        "Carrefour": 1.89,
+        "MD": 1.39,
+        "Iperal": 1.59,
+        "Coop": 1.69
+      }
+    },
+    {
+      "id": 10,
+      "name": "Bananas",
+      "unit": "per kg",
+      "category": "fruit",
+      "prices": {
+        "Lidl": 1.29,
+        "Esselunga": 1.49,
+        "Carrefour": 1.59,
+        "MD": 1.19,
+        "Iperal": 1.39,
+        "Coop": 1.45
+      }
+    },
+    {
+      "id": 11,
+      "name": "Yogurt",
+      "unit": "500g",
+      "category": "dairy",
+      "prices": {
+        "Lidl": 1.29,
+        "Esselunga": 1.49,
+        "Carrefour": 1.59,
+        "MD": 1.19,
+        "Iperal": 1.39,
+        "Coop": 1.45
+      }
+    },
+    {
+      "id": 12,
+      "name": "Salmon",
+      "unit": "per kg",
+      "category": "fish",
+      "prices": {
+        "Lidl": 12.99,
+        "Esselunga": 14.99,
+        "Carrefour": 15.99,
+        "MD": 11.99,
+        "Iperal": 13.99,
+        "Coop": 14.49
+      }
+    },
+    {
+      "id": 13,
+      "name": "Cheese",
+      "unit": "200g",
+      "category": "dairy",
+      "prices": {
+        "Lidl": 2.49,
+        "Esselunga": 2.99,
+        "Carrefour": 3.19,
+        "MD": 2.29,
+        "Iperal": 2.69,
+        "Coop": 2.89
+      }
+    },
+    {
+      "id": 14,
+      "name": "Orange Juice",
+      "unit": "1L",
+      "category": "beverages",
+      "prices": {
+        "Lidl": 1.99,
+        "Esselunga": 2.29,
+        "Carrefour": 2.49,
+        "MD": 1.89,
+        "Iperal": 2.19,
+        "Coop": 2.35
+      }
+    },
+    {
+      "id": 15,
+      "name": "Potatoes",
+      "unit": "per kg",
+      "category": "vegetables",
+      "prices": {
+        "Lidl": 0.99,
+        "Esselunga": 1.19,
+        "Carrefour": 1.29,
+        "MD": 0.89,
+        "Iperal": 1.09,
+        "Coop": 1.15
+      }
+    }
+  ]
+}
