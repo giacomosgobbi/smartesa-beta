@@ -113,6 +113,6 @@ app.get('/health', (req, res) => {
   res.json({ status: 'ok', message: 'Smartesa API is running' });
 });
 
-app.listen(PORT, () => {
-  console.log(`Smartesa backend server running on http://localhost:${PORT}`);
+app.listen(PORT, "0.0.0.0", () => {
+  console.log(`Giablo backend live on port ${PORT}`);
 });
