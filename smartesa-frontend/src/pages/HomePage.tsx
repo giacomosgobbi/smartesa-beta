@@ -1,7 +1,7 @@
 import { Link } from 'react-router-dom'
 import { ShoppingCart, TrendingDown, Users, Compass } from 'lucide-react'
 import { Button } from '@/components/ui/button'
-import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card'
+import { Card, CardDescription, CardHeader, CardTitle } from '@/components/ui/card'
 
 export default function HomePage() {
   return (
